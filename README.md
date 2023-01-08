@@ -8,3 +8,4 @@
 |---| ----- | ---------- | ------ |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | `Array` `Hash Table` |
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium | `Linked List` `Math` `Recursion` |
+| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | `Hash Table` `Sliding Window` `String` |
