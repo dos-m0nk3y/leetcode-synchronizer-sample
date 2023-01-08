@@ -30,5 +30,16 @@
       "Sliding Window",
       "String"
     ]
+  },
+  {
+    "id": 13,
+    "title": "Roman to Integer",
+    "title_slug": "roman-to-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
   }
 ]
