@@ -60,5 +60,15 @@
       "String",
       "Trie"
     ]
+  },
+  {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "title_slug": "valid-parentheses",
+    "difficulty": "Easy",
+    "skills": [
+      "Stack",
+      "String"
+    ]
   }
 ]
