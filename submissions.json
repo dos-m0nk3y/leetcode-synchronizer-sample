@@ -80,5 +80,15 @@
       "Linked List",
       "Recursion"
     ]
+  },
+  {
+    "id": 26,
+    "title": "Remove Duplicates from Sorted Array",
+    "title_slug": "remove-duplicates-from-sorted-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
   }
 ]
