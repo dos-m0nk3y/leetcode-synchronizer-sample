@@ -129,5 +129,17 @@
       "Array",
       "Math"
     ]
+  },
+  {
+    "id": 67,
+    "title": "Add Binary",
+    "title_slug": "add-binary",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "Simulation",
+      "String"
+    ]
   }
 ]
