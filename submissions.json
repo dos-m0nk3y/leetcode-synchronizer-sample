@@ -119,5 +119,15 @@
     "skills": [
       "String"
     ]
+  },
+  {
+    "id": 66,
+    "title": "Plus One",
+    "title_slug": "plus-one",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
   }
 ]
