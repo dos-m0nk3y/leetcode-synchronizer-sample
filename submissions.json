@@ -141,5 +141,15 @@
       "Simulation",
       "String"
     ]
+  },
+  {
+    "id": 69,
+    "title": "Sqrt(x)",
+    "title_slug": "sqrtx",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
   }
 ]
