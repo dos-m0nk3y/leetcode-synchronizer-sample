@@ -194,5 +194,17 @@
       "Stack",
       "Tree"
     ]
+  },
+  {
+    "id": 100,
+    "title": "Same Tree",
+    "title_slug": "same-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
   }
 ]
