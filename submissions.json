@@ -243,5 +243,16 @@
       "Divide and Conquer",
       "Tree"
     ]
+  },
+  {
+    "id": 110,
+    "title": "Balanced Binary Tree",
+    "title_slug": "balanced-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
   }
 ]
