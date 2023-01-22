@@ -230,5 +230,18 @@
       "Depth-First Search",
       "Tree"
     ]
+  },
+  {
+    "id": 108,
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "title_slug": "convert-sorted-array-to-binary-search-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Divide and Conquer",
+      "Tree"
+    ]
   }
 ]
