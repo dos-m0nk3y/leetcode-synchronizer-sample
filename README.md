@@ -32,3 +32,4 @@
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Easy | `Array` `Binary Search Tree` `Binary Tree` `Divide and Conquer` `Tree` |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
+| 0112 | [Path Sum](https://leetcode.com/problems/path-sum) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |

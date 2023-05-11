@@ -277,5 +277,17 @@
       "Depth-First Search",
       "Tree"
     ]
+  },
+  {
+    "id": 112,
+    "title": "Path Sum",
+    "title_slug": "path-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
   }
 ]
