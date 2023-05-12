@@ -339,5 +339,16 @@
       "Array",
       "Bit Manipulation"
     ]
+  },
+  {
+    "id": 141,
+    "title": "Linked List Cycle",
+    "title_slug": "linked-list-cycle",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
   }
 ]
