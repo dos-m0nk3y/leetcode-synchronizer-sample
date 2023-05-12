@@ -319,5 +319,15 @@
       "Array",
       "Dynamic Programming"
     ]
+  },
+  {
+    "id": 125,
+    "title": "Valid Palindrome",
+    "title_slug": "valid-palindrome",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
   }
 ]
