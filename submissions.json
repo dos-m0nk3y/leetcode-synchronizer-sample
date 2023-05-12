@@ -289,5 +289,15 @@
       "Depth-First Search",
       "Tree"
     ]
+  },
+  {
+    "id": 118,
+    "title": "Pascal's Triangle",
+    "title_slug": "pascals-triangle",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
   }
 ]
