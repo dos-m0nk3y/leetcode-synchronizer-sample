@@ -45,3 +45,4 @@
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy | `Hash Table` `Linked List` `Two Pointers` |
 | 0163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges) | Easy | `Array` |
 | 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | Easy | `Math` `String` |
+| 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | `Array` `Counting` `Divide and Conquer` `Hash Table` `Sorting` |
