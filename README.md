@@ -41,3 +41,4 @@
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | `Hash Table` `Linked List` `Two Pointers` |
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
+| 0157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4) | Easy | `Interactive` `Simulation` `String` |
