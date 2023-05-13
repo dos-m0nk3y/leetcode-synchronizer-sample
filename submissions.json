@@ -396,5 +396,14 @@
       "Linked List",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 163,
+    "title": "Missing Ranges",
+    "title_slug": "missing-ranges",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
   }
 ]

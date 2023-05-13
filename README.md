@@ -43,3 +43,4 @@
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4) | Easy | `Interactive` `Simulation` `String` |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy | `Hash Table` `Linked List` `Two Pointers` |
+| 0163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges) | Easy | `Array` |
