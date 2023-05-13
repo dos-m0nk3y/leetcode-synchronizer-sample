@@ -44,3 +44,4 @@
 | 0157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4) | Easy | `Interactive` `Simulation` `String` |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy | `Hash Table` `Linked List` `Two Pointers` |
 | 0163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges) | Easy | `Array` |
+| 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | Easy | `Math` `String` |
