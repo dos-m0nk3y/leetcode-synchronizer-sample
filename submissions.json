@@ -428,5 +428,18 @@
       "Hash Table",
       "Sorting"
     ]
+  },
+  {
+    "id": 170,
+    "title": "Two Sum III - Data structure design",
+    "title_slug": "two-sum-iii-data-structure-design",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Data Stream",
+      "Design",
+      "Hash Table",
+      "Two Pointers"
+    ]
   }
 ]

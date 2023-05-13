@@ -46,3 +46,4 @@
 | 0163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges) | Easy | `Array` |
 | 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | Easy | `Math` `String` |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | `Array` `Counting` `Divide and Conquer` `Hash Table` `Sorting` |
+| 0170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) | Easy | `Array` `Data Stream` `Design` `Hash Table` `Two Pointers` |
