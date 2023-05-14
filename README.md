@@ -49,3 +49,4 @@
 | 0170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) | Easy | `Array` `Data Stream` `Design` `Hash Table` `Two Pointers` |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy | `Math` `String` |
 | 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | Easy | `Database` |
+| 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | Easy | `Database` |
