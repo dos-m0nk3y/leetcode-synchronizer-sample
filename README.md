@@ -56,3 +56,4 @@
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | `Bit Manipulation` `Divide and Conquer` |
 | 0193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | Easy | `Shell` |
 | 0195 | [Tenth Line](https://leetcode.com/problems/tenth-line) | Easy | `Shell` |
+| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | Easy | `Database` |
