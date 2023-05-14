@@ -55,3 +55,4 @@
 | 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | `Bit Manipulation` `Divide and Conquer` |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | `Bit Manipulation` `Divide and Conquer` |
 | 0193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | Easy | `Shell` |
+| 0195 | [Tenth Line](https://leetcode.com/problems/tenth-line) | Easy | `Shell` |
