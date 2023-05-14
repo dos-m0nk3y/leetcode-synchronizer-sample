@@ -469,5 +469,14 @@
     "skills": [
       "Database"
     ]
+  },
+  {
+    "id": 182,
+    "title": "Duplicate Emails",
+    "title_slug": "duplicate-emails",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
   }
 ]
