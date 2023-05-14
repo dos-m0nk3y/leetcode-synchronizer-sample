@@ -441,5 +441,15 @@
       "Hash Table",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 171,
+    "title": "Excel Sheet Column Number",
+    "title_slug": "excel-sheet-column-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
   }
 ]
