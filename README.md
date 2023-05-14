@@ -58,3 +58,4 @@
 | 0195 | [Tenth Line](https://leetcode.com/problems/tenth-line) | Easy | `Shell` |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | Easy | `Database` |
 | 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | Easy | `Database` |
+| 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | `Hash Table` `Math` `Two Pointers` |
