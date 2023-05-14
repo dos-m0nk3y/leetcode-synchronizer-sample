@@ -507,5 +507,14 @@
       "Bit Manipulation",
       "Divide and Conquer"
     ]
+  },
+  {
+    "id": 193,
+    "title": "Valid Phone Numbers",
+    "title_slug": "valid-phone-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Shell"
+    ]
   }
 ]
