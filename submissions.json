@@ -534,5 +534,14 @@
     "skills": [
       "Database"
     ]
+  },
+  {
+    "id": 197,
+    "title": "Rising Temperature",
+    "title_slug": "rising-temperature",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
   }
 ]
