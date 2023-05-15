@@ -629,5 +629,14 @@
       "Depth-First Search",
       "Tree"
     ]
+  },
+  {
+    "id": 228,
+    "title": "Summary Ranges",
+    "title_slug": "summary-ranges",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
   }
 ]
