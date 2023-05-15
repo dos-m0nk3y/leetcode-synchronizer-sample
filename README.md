@@ -68,3 +68,4 @@
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | Easy | `Array` |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | `Bit Manipulation` `Math` `Recursion` |
+| 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | `Design` `Queue` `Stack` |

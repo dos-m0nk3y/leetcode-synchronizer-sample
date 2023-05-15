@@ -649,5 +649,16 @@
       "Math",
       "Recursion"
     ]
+  },
+  {
+    "id": 232,
+    "title": "Implement Queue using Stacks",
+    "title_slug": "implement-queue-using-stacks",
+    "difficulty": "Easy",
+    "skills": [
+      "Design",
+      "Queue",
+      "Stack"
+    ]
   }
 ]
