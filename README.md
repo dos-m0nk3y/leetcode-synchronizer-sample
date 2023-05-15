@@ -62,3 +62,4 @@
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | Easy | `Linked List` `Recursion` |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | `Hash Table` `String` |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | `Linked List` `Recursion` |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |

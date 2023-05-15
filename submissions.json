@@ -584,5 +584,16 @@
       "Linked List",
       "Recursion"
     ]
+  },
+  {
+    "id": 217,
+    "title": "Contains Duplicate",
+    "title_slug": "contains-duplicate",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
   }
 ]
