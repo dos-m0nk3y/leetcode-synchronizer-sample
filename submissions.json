@@ -606,5 +606,16 @@
       "Hash Table",
       "Sliding Window"
     ]
+  },
+  {
+    "id": 225,
+    "title": "Implement Stack using Queues",
+    "title_slug": "implement-stack-using-queues",
+    "difficulty": "Easy",
+    "skills": [
+      "Design",
+      "Queue",
+      "Stack"
+    ]
   }
 ]
