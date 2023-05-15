@@ -554,5 +554,15 @@
       "Math",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 203,
+    "title": "Remove Linked List Elements",
+    "title_slug": "remove-linked-list-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Recursion"
+    ]
   }
 ]
