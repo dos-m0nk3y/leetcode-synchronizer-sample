@@ -714,5 +714,18 @@
       "Array",
       "Sorting"
     ]
+  },
+  {
+    "id": 257,
+    "title": "Binary Tree Paths",
+    "title_slug": "binary-tree-paths",
+    "difficulty": "Easy",
+    "skills": [
+      "Backtracking",
+      "Binary Tree",
+      "Depth-First Search",
+      "String",
+      "Tree"
+    ]
   }
 ]
