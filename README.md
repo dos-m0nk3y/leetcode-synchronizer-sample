@@ -72,3 +72,4 @@
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | `Linked List` `Recursion` `Stack` `Two Pointers` |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
 | 0243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) | Easy | `Array` `String` |
+| 0246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number) | Easy | `Hash Table` `String` `Two Pointers` |

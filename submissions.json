@@ -693,5 +693,16 @@
       "Array",
       "String"
     ]
+  },
+  {
+    "id": 246,
+    "title": "Strobogrammatic Number",
+    "title_slug": "strobogrammatic-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String",
+      "Two Pointers"
+    ]
   }
 ]
