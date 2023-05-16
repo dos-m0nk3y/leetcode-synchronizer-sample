@@ -73,3 +73,4 @@
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
 | 0243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) | Easy | `Array` `String` |
 | 0246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number) | Easy | `Hash Table` `String` `Two Pointers` |
+| 0252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms) | Easy | `Array` `Sorting` |

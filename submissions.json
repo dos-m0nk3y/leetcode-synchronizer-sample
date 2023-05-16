@@ -704,5 +704,15 @@
       "String",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 252,
+    "title": "Meeting Rooms",
+    "title_slug": "meeting-rooms",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
   }
 ]
