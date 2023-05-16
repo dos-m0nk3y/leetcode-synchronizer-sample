@@ -75,3 +75,4 @@
 | 0246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number) | Easy | `Hash Table` `String` `Two Pointers` |
 | 0252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms) | Easy | `Array` `Sorting` |
 | 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | Easy | `Backtracking` `Binary Tree` `Depth-First Search` `String` `Tree` |
+| 0258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | `Math` `Number Theory` `Simulation` |
