@@ -683,5 +683,15 @@
       "Sorting",
       "String"
     ]
+  },
+  {
+    "id": 243,
+    "title": "Shortest Word Distance",
+    "title_slug": "shortest-word-distance",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
   }
 ]
