@@ -772,5 +772,18 @@
       "Math",
       "Sorting"
     ]
+  },
+  {
+    "id": 270,
+    "title": "Closest Binary Search Tree Value",
+    "title_slug": "closest-binary-search-tree-value",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
   }
 ]
