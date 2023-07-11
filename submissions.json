@@ -785,5 +785,15 @@
       "Depth-First Search",
       "Tree"
     ]
+  },
+  {
+    "id": 278,
+    "title": "First Bad Version",
+    "title_slug": "first-bad-version",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Interactive"
+    ]
   }
 ]

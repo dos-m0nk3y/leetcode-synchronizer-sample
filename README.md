@@ -80,3 +80,4 @@
 | 0266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) | Easy | `Bit Manipulation` `Hash Table` `String` |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | `Array` `Binary Search` `Bit Manipulation` `Hash Table` `Math` `Sorting` |
 | 0270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value) | Easy | `Binary Search` `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
+| 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | `Binary Search` `Interactive` |
