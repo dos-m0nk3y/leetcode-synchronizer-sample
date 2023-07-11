@@ -77,3 +77,4 @@
 | 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | Easy | `Backtracking` `Binary Tree` `Depth-First Search` `String` `Tree` |
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | `Math` `Number Theory` `Simulation` |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | Easy | `Math` |
+| 0266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) | Easy | `Bit Manipulation` `Hash Table` `String` |

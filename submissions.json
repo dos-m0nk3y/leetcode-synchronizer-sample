@@ -747,5 +747,16 @@
     "skills": [
       "Math"
     ]
+  },
+  {
+    "id": 266,
+    "title": "Palindrome Permutation",
+    "title_slug": "palindrome-permutation",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Hash Table",
+      "String"
+    ]
   }
 ]
