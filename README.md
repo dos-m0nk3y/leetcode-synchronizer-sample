@@ -78,3 +78,4 @@
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | `Math` `Number Theory` `Simulation` |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | Easy | `Math` |
 | 0266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) | Easy | `Bit Manipulation` `Hash Table` `String` |
+| 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | `Array` `Binary Search` `Bit Manipulation` `Hash Table` `Math` `Sorting` |

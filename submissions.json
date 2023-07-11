@@ -758,5 +758,19 @@
       "Hash Table",
       "String"
     ]
+  },
+  {
+    "id": 268,
+    "title": "Missing Number",
+    "title_slug": "missing-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation",
+      "Hash Table",
+      "Math",
+      "Sorting"
+    ]
   }
 ]
