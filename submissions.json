@@ -835,5 +835,16 @@
     "skills": [
       "String"
     ]
+  },
+  {
+    "id": 303,
+    "title": "Range Sum Query - Immutable",
+    "title_slug": "range-sum-query-immutable",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Design",
+      "Prefix Sum"
+    ]
   }
 ]
