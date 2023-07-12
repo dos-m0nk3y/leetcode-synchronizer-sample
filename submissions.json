@@ -826,5 +826,14 @@
       "Game Theory",
       "Math"
     ]
+  },
+  {
+    "id": 293,
+    "title": "Flip Game",
+    "title_slug": "flip-game",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
   }
 ]

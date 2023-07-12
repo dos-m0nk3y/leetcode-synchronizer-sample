@@ -84,3 +84,4 @@
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | `Array` `Two Pointers` |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | `Hash Table` `String` |
 | 0292 | [Nim Game](https://leetcode.com/problems/nim-game) | Easy | `Brainteaser` `Game Theory` `Math` |
+| 0293 | [Flip Game](https://leetcode.com/problems/flip-game) | Easy | `String` |
