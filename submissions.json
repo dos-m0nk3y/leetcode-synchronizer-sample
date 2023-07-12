@@ -805,5 +805,15 @@
       "Array",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 290,
+    "title": "Word Pattern",
+    "title_slug": "word-pattern",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
   }
 ]
