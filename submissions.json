@@ -815,5 +815,16 @@
       "Hash Table",
       "String"
     ]
+  },
+  {
+    "id": 292,
+    "title": "Nim Game",
+    "title_slug": "nim-game",
+    "difficulty": "Easy",
+    "skills": [
+      "Brainteaser",
+      "Game Theory",
+      "Math"
+    ]
   }
 ]

@@ -83,3 +83,4 @@
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | `Binary Search` `Interactive` |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | `Array` `Two Pointers` |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | `Hash Table` `String` |
+| 0292 | [Nim Game](https://leetcode.com/problems/nim-game) | Easy | `Brainteaser` `Game Theory` `Math` |
