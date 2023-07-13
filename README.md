@@ -87,3 +87,4 @@
 | 0293 | [Flip Game](https://leetcode.com/problems/flip-game) | Easy | `String` |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy | `Array` `Design` `Prefix Sum` |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | `Math` `Recursion` |
+| 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits) | Easy | `Bit Manipulation` `Dynamic Programming` |

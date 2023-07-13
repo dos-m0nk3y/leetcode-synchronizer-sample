@@ -856,5 +856,15 @@
       "Math",
       "Recursion"
     ]
+  },
+  {
+    "id": 338,
+    "title": "Counting Bits",
+    "title_slug": "counting-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Dynamic Programming"
+    ]
   }
 ]
