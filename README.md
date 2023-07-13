@@ -91,3 +91,4 @@
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy | `Bit Manipulation` `Math` `Recursion` |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | `String` `Two Pointers` |
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy | `String` `Two Pointers` |
+| 0346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream) | Easy | `Array` `Data Stream` `Design` `Queue` |
