@@ -866,5 +866,16 @@
       "Bit Manipulation",
       "Dynamic Programming"
     ]
+  },
+  {
+    "id": 342,
+    "title": "Power of Four",
+    "title_slug": "power-of-four",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "Recursion"
+    ]
   }
 ]
