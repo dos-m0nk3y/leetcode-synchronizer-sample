@@ -846,5 +846,15 @@
       "Design",
       "Prefix Sum"
     ]
+  },
+  {
+    "id": 326,
+    "title": "Power of Three",
+    "title_slug": "power-of-three",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Recursion"
+    ]
   }
 ]
