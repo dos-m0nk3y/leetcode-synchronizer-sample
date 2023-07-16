@@ -94,3 +94,4 @@
 | 0346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream) | Easy | `Array` `Data Stream` `Design` `Queue` |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |
 | 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |
+| 0359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter) | Easy | `Design` `Hash Table` |

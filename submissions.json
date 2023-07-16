@@ -935,5 +935,15 @@
       "Sorting",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 359,
+    "title": "Logger Rate Limiter",
+    "title_slug": "logger-rate-limiter",
+    "difficulty": "Easy",
+    "skills": [
+      "Design",
+      "Hash Table"
+    ]
   }
 ]
