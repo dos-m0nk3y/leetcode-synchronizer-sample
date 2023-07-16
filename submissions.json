@@ -909,5 +909,18 @@
       "Design",
       "Queue"
     ]
+  },
+  {
+    "id": 349,
+    "title": "Intersection of Two Arrays",
+    "title_slug": "intersection-of-two-arrays",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Hash Table",
+      "Sorting",
+      "Two Pointers"
+    ]
   }
 ]
