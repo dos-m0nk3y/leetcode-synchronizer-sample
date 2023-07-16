@@ -945,5 +945,15 @@
       "Design",
       "Hash Table"
     ]
+  },
+  {
+    "id": 367,
+    "title": "Valid Perfect Square",
+    "title_slug": "valid-perfect-square",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
   }
 ]
