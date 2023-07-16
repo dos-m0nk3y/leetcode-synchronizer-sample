@@ -955,5 +955,15 @@
       "Binary Search",
       "Math"
     ]
+  },
+  {
+    "id": 374,
+    "title": "Guess Number Higher or Lower",
+    "title_slug": "guess-number-higher-or-lower",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Interactive"
+    ]
   }
 ]
