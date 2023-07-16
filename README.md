@@ -97,3 +97,4 @@
 | 0359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter) | Easy | `Design` `Hash Table` |
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | `Binary Search` `Math` |
 | 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | Easy | `Binary Search` `Interactive` |
+| 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | `Counting` `Hash Table` `String` |
