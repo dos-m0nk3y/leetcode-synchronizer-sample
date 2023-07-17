@@ -98,3 +98,4 @@
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | `Binary Search` `Math` |
 | 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | Easy | `Binary Search` `Interactive` |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | `Counting` `Hash Table` `String` |
+| 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | `Counting` `Hash Table` `Queue` `String` |
