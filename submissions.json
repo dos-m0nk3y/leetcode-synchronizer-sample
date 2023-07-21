@@ -1021,5 +1021,17 @@
       "Backtracking",
       "Bit Manipulation"
     ]
+  },
+  {
+    "id": 404,
+    "title": "Sum of Left Leaves",
+    "title_slug": "sum-of-left-leaves",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
   }
 ]
