@@ -1043,5 +1043,15 @@
       "Bit Manipulation",
       "Math"
     ]
+  },
+  {
+    "id": 408,
+    "title": "Valid Word Abbreviation",
+    "title_slug": "valid-word-abbreviation",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
   }
 ]
