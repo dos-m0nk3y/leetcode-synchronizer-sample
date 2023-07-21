@@ -1000,5 +1000,16 @@
       "Sorting",
       "String"
     ]
+  },
+  {
+    "id": 392,
+    "title": "Is Subsequence",
+    "title_slug": "is-subsequence",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "String",
+      "Two Pointers"
+    ]
   }
 ]
