@@ -1011,5 +1011,15 @@
       "String",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 401,
+    "title": "Binary Watch",
+    "title_slug": "binary-watch",
+    "difficulty": "Easy",
+    "skills": [
+      "Backtracking",
+      "Bit Manipulation"
+    ]
   }
 ]
