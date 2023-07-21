@@ -1033,5 +1033,15 @@
       "Depth-First Search",
       "Tree"
     ]
+  },
+  {
+    "id": 405,
+    "title": "Convert a Number to Hexadecimal",
+    "title_slug": "convert-a-number-to-hexadecimal",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math"
+    ]
   }
 ]
