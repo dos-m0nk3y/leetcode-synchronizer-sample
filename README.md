@@ -109,3 +109,4 @@
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | `Math` `Simulation` `String` |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | Easy | `Array` `Sorting` |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | `Math` `Simulation` `String` |
+| 0422 | [Valid Word Square](https://leetcode.com/problems/valid-word-square) | Easy | `Array` `Matrix` |
