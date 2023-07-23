@@ -105,3 +105,4 @@
 | 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) | Easy | `Bit Manipulation` `Math` |
 | 0408 | [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation) | Easy | `String` `Two Pointers` |
+| 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | `Greedy` `Hash Table` `String` |
