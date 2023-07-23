@@ -1075,5 +1075,15 @@
       "Simulation",
       "String"
     ]
+  },
+  {
+    "id": 414,
+    "title": "Third Maximum Number",
+    "title_slug": "third-maximum-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
   }
 ]
