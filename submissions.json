@@ -1115,5 +1115,15 @@
     "skills": [
       "String"
     ]
+  },
+  {
+    "id": 441,
+    "title": "Arranging Coins",
+    "title_slug": "arranging-coins",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
   }
 ]
