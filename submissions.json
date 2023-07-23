@@ -1125,5 +1125,15 @@
       "Binary Search",
       "Math"
     ]
+  },
+  {
+    "id": 448,
+    "title": "Find All Numbers Disappeared in an Array",
+    "title_slug": "find-all-numbers-disappeared-in-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
   }
 ]
