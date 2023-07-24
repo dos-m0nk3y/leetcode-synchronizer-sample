@@ -1135,5 +1135,17 @@
       "Array",
       "Hash Table"
     ]
+  },
+  {
+    "id": 455,
+    "title": "Assign Cookies",
+    "title_slug": "assign-cookies",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Two Pointers"
+    ]
   }
 ]
