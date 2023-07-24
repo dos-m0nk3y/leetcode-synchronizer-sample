@@ -115,3 +115,4 @@
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | `Array` `Hash Table` |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | Easy | `Array` `Greedy` `Sorting` `Two Pointers` |
 | 0459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | Easy | `String` `String Matching` |
+| 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | `Bit Manipulation` |
