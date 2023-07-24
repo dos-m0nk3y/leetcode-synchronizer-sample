@@ -1147,5 +1147,15 @@
       "Sorting",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 459,
+    "title": "Repeated Substring Pattern",
+    "title_slug": "repeated-substring-pattern",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "String Matching"
+    ]
   }
 ]
