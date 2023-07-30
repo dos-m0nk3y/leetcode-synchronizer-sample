@@ -1214,5 +1214,15 @@
     "skills": [
       "Math"
     ]
+  },
+  {
+    "id": 495,
+    "title": "Teemo Attacking",
+    "title_slug": "teemo-attacking",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
   }
 ]

@@ -121,3 +121,4 @@
 | 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting) | Easy | `String` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
 | 0492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | Easy | `Math` |
+| 0495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) | Easy | `Array` `Simulation` |
