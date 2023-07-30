@@ -1187,5 +1187,14 @@
     "skills": [
       "Bit Manipulation"
     ]
+  },
+  {
+    "id": 482,
+    "title": "License Key Formatting",
+    "title_slug": "license-key-formatting",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
   }
 ]

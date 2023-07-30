@@ -118,3 +118,4 @@
 | 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | `Bit Manipulation` |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
 | 0476 | [Number Complement](https://leetcode.com/problems/number-complement) | Easy | `Bit Manipulation` |
+| 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting) | Easy | `String` |
