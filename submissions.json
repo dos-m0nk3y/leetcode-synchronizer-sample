@@ -1205,5 +1205,14 @@
     "skills": [
       "Array"
     ]
+  },
+  {
+    "id": 492,
+    "title": "Construct the Rectangle",
+    "title_slug": "construct-the-rectangle",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
   }
 ]
