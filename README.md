@@ -123,3 +123,4 @@
 | 0492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | Easy | `Math` |
 | 0495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) | Easy | `Array` `Simulation` |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | `Array` `Hash Table` `Monotonic Stack` `Stack` |
+| 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | Easy | `Array` `Hash Table` `String` |

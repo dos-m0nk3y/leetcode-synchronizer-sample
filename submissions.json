@@ -1236,5 +1236,16 @@
       "Monotonic Stack",
       "Stack"
     ]
+  },
+  {
+    "id": 500,
+    "title": "Keyboard Row",
+    "title_slug": "keyboard-row",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
   }
 ]
