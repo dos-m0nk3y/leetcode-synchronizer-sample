@@ -1259,5 +1259,14 @@
       "Depth-First Search",
       "Tree"
     ]
+  },
+  {
+    "id": 504,
+    "title": "Base 7",
+    "title_slug": "base-7",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
   }
 ]
