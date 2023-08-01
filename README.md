@@ -126,3 +126,4 @@
 | 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | Easy | `Array` `Hash Table` `String` |
 | 0501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) | Easy | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
 | 0504 | [Base 7](https://leetcode.com/problems/base-7) | Easy | `Math` |
+| 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |

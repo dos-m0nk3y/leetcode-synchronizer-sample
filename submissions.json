@@ -1268,5 +1268,16 @@
     "skills": [
       "Math"
     ]
+  },
+  {
+    "id": 506,
+    "title": "Relative Ranks",
+    "title_slug": "relative-ranks",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
   }
 ]
