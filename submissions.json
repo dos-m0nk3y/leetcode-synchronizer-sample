@@ -1247,5 +1247,17 @@
       "Hash Table",
       "String"
     ]
+  },
+  {
+    "id": 501,
+    "title": "Find Mode in Binary Search Tree",
+    "title_slug": "find-mode-in-binary-search-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
   }
 ]
