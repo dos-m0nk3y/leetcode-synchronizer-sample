@@ -129,3 +129,4 @@
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | `Math` |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` `Recursion` |
+| 0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | Easy | `Database` |
