@@ -1279,5 +1279,14 @@
       "Heap (Priority Queue)",
       "Sorting"
     ]
+  },
+  {
+    "id": 507,
+    "title": "Perfect Number",
+    "title_slug": "perfect-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
   }
 ]

@@ -127,3 +127,4 @@
 | 0501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) | Easy | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
 | 0504 | [Base 7](https://leetcode.com/problems/base-7) | Easy | `Math` |
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
+| 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | `Math` |
