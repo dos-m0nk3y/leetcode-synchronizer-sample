@@ -1288,5 +1288,17 @@
     "skills": [
       "Math"
     ]
+  },
+  {
+    "id": 509,
+    "title": "Fibonacci Number",
+    "title_slug": "fibonacci-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Memoization",
+      "Recursion"
+    ]
   }
 ]
