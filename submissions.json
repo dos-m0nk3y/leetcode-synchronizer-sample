@@ -1309,5 +1309,14 @@
     "skills": [
       "Database"
     ]
+  },
+  {
+    "id": 512,
+    "title": "Game Play Analysis II",
+    "title_slug": "game-play-analysis-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
   }
 ]

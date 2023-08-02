@@ -130,3 +130,4 @@
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | `Math` |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` `Recursion` |
 | 0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | Easy | `Database` |
+| 0512 | [Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii) | Easy | `Database` |
