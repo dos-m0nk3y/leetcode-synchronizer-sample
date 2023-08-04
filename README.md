@@ -133,3 +133,4 @@
 | 0512 | [Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii) | Easy | `Database` |
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy | `String` |
 | 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | Easy | `String` |
+| 0530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | Easy | `Binary Search Tree` `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
