@@ -1400,5 +1400,17 @@
       "Depth-First Search",
       "Tree"
     ]
+  },
+  {
+    "id": 561,
+    "title": "Array Partition",
+    "title_slug": "array-partition",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting Sort",
+      "Greedy",
+      "Sorting"
+    ]
   }
 ]
