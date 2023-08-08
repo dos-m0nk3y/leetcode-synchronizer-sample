@@ -1389,5 +1389,16 @@
       "String",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 559,
+    "title": "Maximum Depth of N-ary Tree",
+    "title_slug": "maximum-depth-of-n-ary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
   }
 ]
