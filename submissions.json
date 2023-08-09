@@ -1447,5 +1447,15 @@
       "String Matching",
       "Tree"
     ]
+  },
+  {
+    "id": 575,
+    "title": "Distribute Candies",
+    "title_slug": "distribute-candies",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
   }
 ]
