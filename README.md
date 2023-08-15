@@ -144,3 +144,4 @@
 | 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Easy | `Binary Tree` `Depth-First Search` `Hash Function` `String Matching` `Tree` |
 | 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | Easy | `Array` `Hash Table` |
+| 0577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus) | Easy | `Database` |
