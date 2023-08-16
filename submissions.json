@@ -1484,5 +1484,16 @@
     "skills": [
       "Database"
     ]
+  },
+  {
+    "id": 589,
+    "title": "N-ary Tree Preorder Traversal",
+    "title_slug": "n-ary-tree-preorder-traversal",
+    "difficulty": "Easy",
+    "skills": [
+      "Depth-First Search",
+      "Stack",
+      "Tree"
+    ]
   }
 ]
