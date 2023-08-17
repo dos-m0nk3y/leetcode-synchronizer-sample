@@ -149,3 +149,4 @@
 | 0586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | Easy | `Database` |
 | 0589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | Easy | `Depth-First Search` `Stack` `Tree` |
 | 0590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | Easy | `Depth-First Search` `Stack` `Tree` |
+| 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | Easy | `Array` `Hash Table` `Sorting` |
