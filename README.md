@@ -152,3 +152,4 @@
 | 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | Easy | `Array` `Hash Table` `Sorting` |
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | `Database` |
 | 0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | Easy | `Database` |
+| 0597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate) | Easy | `Database` |

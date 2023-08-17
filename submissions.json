@@ -1535,5 +1535,14 @@
     "skills": [
       "Database"
     ]
+  },
+  {
+    "id": 597,
+    "title": "Friend Requests I: Overall Acceptance Rate",
+    "title_slug": "friend-requests-i-overall-acceptance-rate",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
   }
 ]
