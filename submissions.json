@@ -1526,5 +1526,14 @@
     "skills": [
       "Database"
     ]
+  },
+  {
+    "id": 596,
+    "title": "Classes More Than 5 Students",
+    "title_slug": "classes-more-than-5-students",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
   }
 ]
