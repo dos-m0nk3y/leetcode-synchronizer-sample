@@ -153,3 +153,4 @@
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | `Database` |
 | 0596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students) | Easy | `Database` |
 | 0597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate) | Easy | `Database` |
+| 0598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii) | Easy | `Array` `Math` |

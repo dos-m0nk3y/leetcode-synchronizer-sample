@@ -1544,5 +1544,15 @@
     "skills": [
       "Database"
     ]
+  },
+  {
+    "id": 598,
+    "title": "Range Addition II",
+    "title_slug": "range-addition-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
   }
 ]
