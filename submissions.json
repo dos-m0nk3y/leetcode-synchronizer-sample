@@ -1517,5 +1517,14 @@
       "Hash Table",
       "Sorting"
     ]
+  },
+  {
+    "id": 595,
+    "title": "Big Countries",
+    "title_slug": "big-countries",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
   }
 ]
