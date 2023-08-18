@@ -1574,5 +1574,18 @@
     "skills": [
       "Database"
     ]
+  },
+  {
+    "id": 604,
+    "title": "Design Compressed String Iterator",
+    "title_slug": "design-compressed-string-iterator",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Design",
+      "Hash Table",
+      "Iterator",
+      "String"
+    ]
   }
 ]
