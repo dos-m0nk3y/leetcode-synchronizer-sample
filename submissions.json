@@ -1556,6 +1556,17 @@
     ]
   },
   {
+    "id": 599,
+    "title": "Minimum Index Sum of Two Lists",
+    "title_slug": "minimum-index-sum-of-two-lists",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 603,
     "title": "Consecutive Available Seats",
     "title_slug": "consecutive-available-seats",
