@@ -157,3 +157,4 @@
 | 0599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | Easy | `Array` `Hash Table` `String` |
 | 0603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats) | Easy | `Database` |
 | 0604 | [Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator) | Easy | `Array` `Design` `Hash Table` `Iterator` `String` |
+| 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | `Array` `Greedy` |

@@ -1587,5 +1587,15 @@
       "Iterator",
       "String"
     ]
+  },
+  {
+    "id": 605,
+    "title": "Can Place Flowers",
+    "title_slug": "can-place-flowers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
   }
 ]
