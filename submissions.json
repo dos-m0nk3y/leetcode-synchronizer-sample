@@ -1554,5 +1554,14 @@
       "Array",
       "Math"
     ]
+  },
+  {
+    "id": 603,
+    "title": "Consecutive Available Seats",
+    "title_slug": "consecutive-available-seats",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
   }
 ]
