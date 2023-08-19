@@ -1609,5 +1609,14 @@
       "String",
       "Tree"
     ]
+  },
+  {
+    "id": 607,
+    "title": "Sales Person",
+    "title_slug": "sales-person",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
   }
 ]
