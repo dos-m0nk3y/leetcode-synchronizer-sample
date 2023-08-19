@@ -162,3 +162,4 @@
 | 0607 | [Sales Person](https://leetcode.com/problems/sales-person) | Easy | `Database` |
 | 0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | Easy | `Database` |
 | 0613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line) | Easy | `Database` |
+| 0617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
