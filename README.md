@@ -164,3 +164,4 @@
 | 0613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line) | Easy | `Database` |
 | 0617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | Easy | `Database` |
+| 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | `Database` |
