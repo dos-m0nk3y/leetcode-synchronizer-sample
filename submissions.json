@@ -1689,5 +1689,15 @@
       "Depth-First Search",
       "Tree"
     ]
+  },
+  {
+    "id": 643,
+    "title": "Maximum Average Subarray I",
+    "title_slug": "maximum-average-subarray-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sliding Window"
+    ]
   }
 ]
