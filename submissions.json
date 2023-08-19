@@ -1618,5 +1618,14 @@
     "skills": [
       "Database"
     ]
+  },
+  {
+    "id": 610,
+    "title": "Triangle Judgement",
+    "title_slug": "triangle-judgement",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
   }
 ]

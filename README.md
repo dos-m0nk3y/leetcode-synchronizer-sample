@@ -160,3 +160,4 @@
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | `Array` `Greedy` |
 | 0606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `String` `Tree` |
 | 0607 | [Sales Person](https://leetcode.com/problems/sales-person) | Easy | `Database` |
+| 0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | Easy | `Database` |
