@@ -165,3 +165,4 @@
 | 0617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | Easy | `Database` |
 | 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | `Database` |
+| 0628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | Easy | `Array` `Math` `Sorting` |
