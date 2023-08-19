@@ -1648,5 +1648,14 @@
       "Depth-First Search",
       "Tree"
     ]
+  },
+  {
+    "id": 619,
+    "title": "Biggest Single Number",
+    "title_slug": "biggest-single-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
   }
 ]
