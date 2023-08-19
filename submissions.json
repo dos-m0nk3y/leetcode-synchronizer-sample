@@ -1677,5 +1677,17 @@
       "Math",
       "Sorting"
     ]
+  },
+  {
+    "id": 637,
+    "title": "Average of Levels in Binary Tree",
+    "title_slug": "average-of-levels-in-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
   }
 ]
