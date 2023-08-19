@@ -1597,5 +1597,17 @@
       "Array",
       "Greedy"
     ]
+  },
+  {
+    "id": 606,
+    "title": "Construct String from Binary Tree",
+    "title_slug": "construct-string-from-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "String",
+      "Tree"
+    ]
   }
 ]
