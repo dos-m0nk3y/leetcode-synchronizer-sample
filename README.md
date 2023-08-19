@@ -165,6 +165,7 @@
 | 0617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | Easy | `Database` |
 | 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | `Database` |
+| 0627 | [Swap Salary](https://leetcode.com/problems/swap-salary) | Easy | `Database` |
 | 0628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | Easy | `Array` `Math` `Sorting` |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | Easy | `Array` `Sliding Window` |

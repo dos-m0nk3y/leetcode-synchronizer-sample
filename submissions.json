@@ -1668,6 +1668,15 @@
     ]
   },
   {
+    "id": 627,
+    "title": "Swap Salary",
+    "title_slug": "swap-salary",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 628,
     "title": "Maximum Product of Three Numbers",
     "title_slug": "maximum-product-of-three-numbers",
