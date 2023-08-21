@@ -1720,5 +1720,17 @@
       "Array",
       "Sliding Window"
     ]
+  },
+  {
+    "id": 645,
+    "title": "Set Mismatch",
+    "title_slug": "set-mismatch",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Hash Table",
+      "Sorting"
+    ]
   }
 ]
