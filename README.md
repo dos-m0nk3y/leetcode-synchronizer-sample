@@ -177,3 +177,4 @@
 | 0671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence) | Easy | `Array` |
 | 0680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | Easy | `Greedy` `String` `Two Pointers` |
+| 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | Easy | `Array` `Simulation` `Stack` |
