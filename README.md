@@ -175,3 +175,4 @@
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | Easy | `Simulation` `String` |
 | 0661 | [Image Smoother](https://leetcode.com/problems/image-smoother) | Easy | `Array` `Matrix` |
 | 0671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
+| 0674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence) | Easy | `Array` |

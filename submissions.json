@@ -1778,5 +1778,14 @@
       "Depth-First Search",
       "Tree"
     ]
+  },
+  {
+    "id": 674,
+    "title": "Longest Continuous Increasing Subsequence",
+    "title_slug": "longest-continuous-increasing-subsequence",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
   }
 ]
