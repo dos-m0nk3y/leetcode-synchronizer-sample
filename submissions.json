@@ -1757,5 +1757,15 @@
       "Simulation",
       "String"
     ]
+  },
+  {
+    "id": 661,
+    "title": "Image Smoother",
+    "title_slug": "image-smoother",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
   }
 ]
