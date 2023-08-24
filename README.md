@@ -179,3 +179,4 @@
 | 0680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | Easy | `Greedy` `String` `Two Pointers` |
 | 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | Easy | `Array` `Simulation` `Stack` |
 | 0693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | Easy | `Bit Manipulation` |
+| 0696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | Easy | `String` `Two Pointers` |

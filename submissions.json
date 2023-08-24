@@ -1818,5 +1818,15 @@
     "skills": [
       "Bit Manipulation"
     ]
+  },
+  {
+    "id": 696,
+    "title": "Count Binary Substrings",
+    "title_slug": "count-binary-substrings",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
   }
 ]
