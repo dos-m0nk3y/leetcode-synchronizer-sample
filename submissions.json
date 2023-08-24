@@ -1809,5 +1809,14 @@
       "Simulation",
       "Stack"
     ]
+  },
+  {
+    "id": 693,
+    "title": "Binary Number with Alternating Bits",
+    "title_slug": "binary-number-with-alternating-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation"
+    ]
   }
 ]
