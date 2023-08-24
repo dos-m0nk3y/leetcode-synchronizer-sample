@@ -1838,5 +1838,16 @@
       "Array",
       "Hash Table"
     ]
+  },
+  {
+    "id": 700,
+    "title": "Search in a Binary Search Tree",
+    "title_slug": "search-in-a-binary-search-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Tree"
+    ]
   }
 ]
