@@ -1828,5 +1828,15 @@
       "String",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 697,
+    "title": "Degree of an Array",
+    "title_slug": "degree-of-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
   }
 ]
