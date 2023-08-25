@@ -1863,5 +1863,15 @@
       "Heap (Priority Queue)",
       "Tree"
     ]
+  },
+  {
+    "id": 704,
+    "title": "Binary Search",
+    "title_slug": "binary-search",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
   }
 ]
