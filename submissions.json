@@ -1873,5 +1873,18 @@
       "Array",
       "Binary Search"
     ]
+  },
+  {
+    "id": 706,
+    "title": "Design HashMap",
+    "title_slug": "design-hashmap",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Design",
+      "Hash Function",
+      "Hash Table",
+      "Linked List"
+    ]
   }
 ]
