@@ -1917,5 +1917,15 @@
     "skills": [
       "Array"
     ]
+  },
+  {
+    "id": 724,
+    "title": "Find Pivot Index",
+    "title_slug": "find-pivot-index",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
   }
 ]
