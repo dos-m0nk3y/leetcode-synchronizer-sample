@@ -1927,5 +1927,14 @@
       "Array",
       "Prefix Sum"
     ]
+  },
+  {
+    "id": 728,
+    "title": "Self Dividing Numbers",
+    "title_slug": "self-dividing-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
   }
 ]
