@@ -1899,5 +1899,14 @@
       "Hash Table",
       "Linked List"
     ]
+  },
+  {
+    "id": 709,
+    "title": "To Lower Case",
+    "title_slug": "to-lower-case",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
   }
 ]
