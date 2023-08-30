@@ -192,3 +192,4 @@
 | 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | Easy | `Math` |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
 | 0734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity) | Easy | `Array` `Hash Table` `String` |
+| 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | Easy | `Array` `Binary Search` |

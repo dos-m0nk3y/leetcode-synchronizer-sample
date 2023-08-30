@@ -1959,5 +1959,15 @@
       "Hash Table",
       "String"
     ]
+  },
+  {
+    "id": 744,
+    "title": "Find Smallest Letter Greater Than Target",
+    "title_slug": "find-smallest-letter-greater-than-target",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
   }
 ]
