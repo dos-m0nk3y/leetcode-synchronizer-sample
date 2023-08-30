@@ -1969,5 +1969,15 @@
       "Array",
       "Binary Search"
     ]
+  },
+  {
+    "id": 746,
+    "title": "Min Cost Climbing Stairs",
+    "title_slug": "min-cost-climbing-stairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
   }
 ]
