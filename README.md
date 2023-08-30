@@ -191,3 +191,4 @@
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | `Array` `Prefix Sum` |
 | 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | Easy | `Math` |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
+| 0734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity) | Easy | `Array` `Hash Table` `String` |

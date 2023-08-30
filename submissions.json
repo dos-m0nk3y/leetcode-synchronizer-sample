@@ -1948,5 +1948,16 @@
       "Depth-First Search",
       "Matrix"
     ]
+  },
+  {
+    "id": 734,
+    "title": "Sentence Similarity",
+    "title_slug": "sentence-similarity",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
   }
 ]
