@@ -194,3 +194,4 @@
 | 0734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity) | Easy | `Array` `Hash Table` `String` |
 | 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | Easy | `Array` `Binary Search` |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | Easy | `Array` `Dynamic Programming` |
+| 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | Easy | `Array` `Sorting` |
