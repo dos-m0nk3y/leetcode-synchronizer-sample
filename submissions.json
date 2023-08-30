@@ -1989,5 +1989,16 @@
       "Array",
       "Sorting"
     ]
+  },
+  {
+    "id": 748,
+    "title": "Shortest Completing Word",
+    "title_slug": "shortest-completing-word",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
   }
 ]
