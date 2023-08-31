@@ -2053,5 +2053,16 @@
       "Depth-First Search",
       "Tree"
     ]
+  },
+  {
+    "id": 800,
+    "title": "Similar RGB Color",
+    "title_slug": "similar-rgb-color",
+    "difficulty": "Easy",
+    "skills": [
+      "Enumeration",
+      "Math",
+      "String"
+    ]
   }
 ]
