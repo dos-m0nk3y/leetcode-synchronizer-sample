@@ -2020,5 +2020,15 @@
       "Bit Manipulation",
       "Math"
     ]
+  },
+  {
+    "id": 766,
+    "title": "Toeplitz Matrix",
+    "title_slug": "toeplitz-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
   }
 ]

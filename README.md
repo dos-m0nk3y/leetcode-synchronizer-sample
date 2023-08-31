@@ -198,3 +198,4 @@
 | 0748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word) | Easy | `Array` `Hash Table` `String` |
 | 0760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings) | Easy | `Array` `Hash Table` |
 | 0762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | `Bit Manipulation` `Math` |
+| 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | `Array` `Matrix` |
