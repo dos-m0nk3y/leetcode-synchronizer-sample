@@ -2010,5 +2010,15 @@
       "Array",
       "Hash Table"
     ]
+  },
+  {
+    "id": 762,
+    "title": "Prime Number of Set Bits in Binary Representation",
+    "title_slug": "prime-number-of-set-bits-in-binary-representation",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math"
+    ]
   }
 ]
