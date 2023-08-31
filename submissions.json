@@ -2000,5 +2000,15 @@
       "Hash Table",
       "String"
     ]
+  },
+  {
+    "id": 760,
+    "title": "Find Anagram Mappings",
+    "title_slug": "find-anagram-mappings",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
   }
 ]
