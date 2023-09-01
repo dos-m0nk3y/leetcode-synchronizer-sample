@@ -2074,5 +2074,16 @@
       "Math",
       "String"
     ]
+  },
+  {
+    "id": 804,
+    "title": "Unique Morse Code Words",
+    "title_slug": "unique-morse-code-words",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
   }
 ]
