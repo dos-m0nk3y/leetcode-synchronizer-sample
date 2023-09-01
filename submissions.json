@@ -2119,6 +2119,17 @@
     ]
   },
   {
+    "id": 821,
+    "title": "Shortest Distance to a Character",
+    "title_slug": "shortest-distance-to-a-character",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
