@@ -204,4 +204,5 @@
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | `String` `String Matching` |
 | 0800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color) | Easy | `Enumeration` `Math` `String` |
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | `Array` `Hash Table` `String` |
+| 0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | Easy | `Array` `String` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |

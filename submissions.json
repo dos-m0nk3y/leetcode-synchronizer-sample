@@ -2087,6 +2087,16 @@
     ]
   },
   {
+    "id": 806,
+    "title": "Number of Lines To Write String",
+    "title_slug": "number-of-lines-to-write-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
