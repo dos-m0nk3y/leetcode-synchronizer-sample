@@ -210,4 +210,5 @@
 | 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) | Easy | `Array` `String` `Two Pointers` |
 | 0824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | `String` |
 | 0830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups) | Easy | `String` |
+| 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | `Array` `Matrix` `Simulation` `Two Pointers` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
