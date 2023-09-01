@@ -2139,6 +2139,15 @@
     ]
   },
   {
+    "id": 830,
+    "title": "Positions of Large Groups",
+    "title_slug": "positions-of-large-groups",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",

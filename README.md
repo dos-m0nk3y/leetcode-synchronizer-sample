@@ -209,4 +209,5 @@
 | 0819 | [Most Common Word](https://leetcode.com/problems/most-common-word) | Easy | `Counting` `Hash Table` `String` |
 | 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) | Easy | `Array` `String` `Two Pointers` |
 | 0824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | `String` |
+| 0830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups) | Easy | `String` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
