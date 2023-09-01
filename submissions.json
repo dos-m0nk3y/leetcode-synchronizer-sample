@@ -2160,6 +2160,16 @@
     ]
   },
   {
+    "id": 836,
+    "title": "Rectangle Overlap",
+    "title_slug": "rectangle-overlap",
+    "difficulty": "Easy",
+    "skills": [
+      "Geometry",
+      "Math"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
