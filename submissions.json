@@ -2097,6 +2097,17 @@
     ]
   },
   {
+    "id": 812,
+    "title": "Largest Triangle Area",
+    "title_slug": "largest-triangle-area",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Geometry",
+      "Math"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
