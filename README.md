@@ -206,4 +206,5 @@
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | `Array` `Hash Table` `String` |
 | 0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | Easy | `Array` `String` |
 | 0812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area) | Easy | `Array` `Geometry` `Math` |
+| 0819 | [Most Common Word](https://leetcode.com/problems/most-common-word) | Easy | `Counting` `Hash Table` `String` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |

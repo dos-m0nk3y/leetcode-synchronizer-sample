@@ -2108,6 +2108,17 @@
     ]
   },
   {
+    "id": 819,
+    "title": "Most Common Word",
+    "title_slug": "most-common-word",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
