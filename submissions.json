@@ -2085,5 +2085,15 @@
       "Hash Table",
       "String"
     ]
+  },
+  {
+    "id": 1046,
+    "title": "Last Stone Weight",
+    "title_slug": "last-stone-weight",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
   }
 ]
