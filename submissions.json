@@ -2130,6 +2130,15 @@
     ]
   },
   {
+    "id": 824,
+    "title": "Goat Latin",
+    "title_slug": "goat-latin",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
