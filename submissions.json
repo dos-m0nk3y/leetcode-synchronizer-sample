@@ -2202,6 +2202,17 @@
     ]
   },
   {
+    "id": 867,
+    "title": "Transpose Matrix",
+    "title_slug": "transpose-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",

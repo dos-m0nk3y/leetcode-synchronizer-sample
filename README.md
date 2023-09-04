@@ -215,4 +215,5 @@
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy | `Simulation` `Stack` `String` `Two Pointers` |
 | 0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | Easy | `Hash Table` `String` |
 | 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | Easy | `Array` `Greedy` |
+| 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
