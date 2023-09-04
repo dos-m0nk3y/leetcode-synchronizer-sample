@@ -2213,6 +2213,15 @@
     ]
   },
   {
+    "id": 868,
+    "title": "Binary Gap",
+    "title_slug": "binary-gap",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
