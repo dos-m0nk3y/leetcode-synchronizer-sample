@@ -2182,6 +2182,16 @@
     ]
   },
   {
+    "id": 859,
+    "title": "Buddy Strings",
+    "title_slug": "buddy-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
