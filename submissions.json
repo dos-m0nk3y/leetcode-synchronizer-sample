@@ -2192,6 +2192,16 @@
     ]
   },
   {
+    "id": 860,
+    "title": "Lemonade Change",
+    "title_slug": "lemonade-change",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
