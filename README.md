@@ -217,4 +217,5 @@
 | 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | Easy | `Array` `Greedy` |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 0868 | [Binary Gap](https://leetcode.com/problems/binary-gap) | Easy | `Bit Manipulation` |
+| 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |

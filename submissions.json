@@ -2222,6 +2222,17 @@
     ]
   },
   {
+    "id": 872,
+    "title": "Leaf-Similar Trees",
+    "title_slug": "leaf-similar-trees",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
