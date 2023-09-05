@@ -218,4 +218,5 @@
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 0868 | [Binary Gap](https://leetcode.com/problems/binary-gap) | Easy | `Bit Manipulation` |
 | 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | `Linked List` `Two Pointers` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
