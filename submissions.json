@@ -2265,6 +2265,18 @@
     ]
   },
   {
+    "id": 888,
+    "title": "Fair Candy Swap",
+    "title_slug": "fair-candy-swap",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
