@@ -2243,6 +2243,18 @@
     ]
   },
   {
+    "id": 883,
+    "title": "Projection Area of 3D Shapes",
+    "title_slug": "projection-area-of-3d-shapes",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Geometry",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
