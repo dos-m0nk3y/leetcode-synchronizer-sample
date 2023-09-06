@@ -222,4 +222,5 @@
 | 0883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes) | Easy | `Array` `Geometry` `Math` `Matrix` |
 | 0884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | Easy | `Hash Table` `String` |
 | 0888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` |
+| 0892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes) | Easy | `Array` `Geometry` `Math` `Matrix` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
