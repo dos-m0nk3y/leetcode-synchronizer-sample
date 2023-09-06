@@ -2255,6 +2255,16 @@
     ]
   },
   {
+    "id": 884,
+    "title": "Uncommon Words from Two Sentences",
+    "title_slug": "uncommon-words-from-two-sentences",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
