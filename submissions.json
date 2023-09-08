@@ -2298,6 +2298,19 @@
     ]
   },
   {
+    "id": 897,
+    "title": "Increasing Order Search Tree",
+    "title_slug": "increasing-order-search-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Depth-First Search",
+      "Stack",
+      "Tree"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",

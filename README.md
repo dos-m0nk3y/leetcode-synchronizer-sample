@@ -224,4 +224,5 @@
 | 0888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` |
 | 0892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes) | Easy | `Array` `Geometry` `Math` `Matrix` |
 | 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | `Array` |
+| 0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree) | Easy | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
