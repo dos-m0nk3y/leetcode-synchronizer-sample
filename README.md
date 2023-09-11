@@ -229,4 +229,5 @@
 | 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy | `Array` `Math` |
 | 0914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | Easy | `Array` `Counting` `Hash Table` `Math` `Number Theory` |
 | 0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | Easy | `String` `Two Pointers` |
+| 0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | Easy | `Array` `Sorting` `Two Pointers` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
