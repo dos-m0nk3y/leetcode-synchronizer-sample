@@ -226,4 +226,5 @@
 | 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | `Array` |
 | 0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree) | Easy | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy | `Array` `Sorting` `Two Pointers` |
+| 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy | `Array` `Math` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |

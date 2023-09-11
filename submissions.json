@@ -2322,6 +2322,16 @@
     ]
   },
   {
+    "id": 908,
+    "title": "Smallest Range I",
+    "title_slug": "smallest-range-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
