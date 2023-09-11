@@ -2311,6 +2311,17 @@
     ]
   },
   {
+    "id": 905,
+    "title": "Sort Array By Parity",
+    "title_slug": "sort-array-by-parity",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
