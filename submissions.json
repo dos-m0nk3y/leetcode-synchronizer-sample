@@ -2366,6 +2366,16 @@
     ]
   },
   {
+    "id": 925,
+    "title": "Long Pressed Name",
+    "title_slug": "long-pressed-name",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
