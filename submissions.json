@@ -2387,6 +2387,17 @@
     ]
   },
   {
+    "id": 933,
+    "title": "Number of Recent Calls",
+    "title_slug": "number-of-recent-calls",
+    "difficulty": "Easy",
+    "skills": [
+      "Data Stream",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",

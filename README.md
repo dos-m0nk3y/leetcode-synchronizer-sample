@@ -232,4 +232,5 @@
 | 0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | Easy | `Array` `Sorting` `Two Pointers` |
 | 0925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | Easy | `String` `Two Pointers` |
 | 0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | Easy | `Array` `Hash Table` `String` |
+| 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | Easy | `Data Stream` `Design` `Queue` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
