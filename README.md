@@ -233,4 +233,5 @@
 | 0925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | Easy | `String` `Two Pointers` |
 | 0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | Easy | `Array` `Hash Table` `String` |
 | 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | Easy | `Data Stream` `Design` `Queue` |
+| 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
