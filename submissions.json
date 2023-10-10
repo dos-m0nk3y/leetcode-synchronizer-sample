@@ -2419,6 +2419,18 @@
     ]
   },
   {
+    "id": 942,
+    "title": "DI String Match",
+    "title_slug": "di-string-match",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
