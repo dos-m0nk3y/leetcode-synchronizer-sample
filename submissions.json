@@ -2441,6 +2441,17 @@
     ]
   },
   {
+    "id": 953,
+    "title": "Verifying an Alien Dictionary",
+    "title_slug": "verifying-an-alien-dictionary",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
