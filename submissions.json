@@ -2474,6 +2474,18 @@
     ]
   },
   {
+    "id": 976,
+    "title": "Largest Perimeter Triangle",
+    "title_slug": "largest-perimeter-triangle",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
