@@ -2452,6 +2452,16 @@
     ]
   },
   {
+    "id": 961,
+    "title": "N-Repeated Element in Size 2N Array",
+    "title_slug": "n-repeated-element-in-size-2n-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
