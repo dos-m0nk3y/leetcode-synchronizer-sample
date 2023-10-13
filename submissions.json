@@ -2462,6 +2462,18 @@
     ]
   },
   {
+    "id": 965,
+    "title": "Univalued Binary Tree",
+    "title_slug": "univalued-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
