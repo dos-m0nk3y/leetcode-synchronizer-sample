@@ -243,4 +243,5 @@
 | 0976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | Easy | `Array` `Greedy` `Math` `Sorting` |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
 | 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | `Array` `Math` |
+| 0993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |

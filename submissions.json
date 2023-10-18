@@ -2507,6 +2507,18 @@
     ]
   },
   {
+    "id": 993,
+    "title": "Cousins in Binary Tree",
+    "title_slug": "cousins-in-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
