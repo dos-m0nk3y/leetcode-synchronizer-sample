@@ -2497,6 +2497,16 @@
     ]
   },
   {
+    "id": 989,
+    "title": "Add to Array-Form of Integer",
+    "title_slug": "add-to-array-form-of-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
