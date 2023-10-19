@@ -2541,6 +2541,17 @@
     ]
   },
   {
+    "id": 1002,
+    "title": "Find Common Characters",
+    "title_slug": "find-common-characters",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
