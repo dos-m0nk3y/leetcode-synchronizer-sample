@@ -245,4 +245,5 @@
 | 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | `Array` `Math` |
 | 0993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | Easy | `Array` `Graph` `Hash Table` |
+| 0999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) | Easy | `Array` `Matrix` `Simulation` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |

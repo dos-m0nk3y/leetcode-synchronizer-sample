@@ -2530,6 +2530,17 @@
     ]
   },
   {
+    "id": 999,
+    "title": "Available Captures for Rook",
+    "title_slug": "available-captures-for-rook",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
